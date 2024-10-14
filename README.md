@@ -1,7 +1,7 @@
 GateFi - Unlimit Crypto API
 ========
 
-Initial iOS mobile implementation by NetM of Unlimint Crypto REST API for payments, ckeckouts in application. This Release supports following methods:
+Initial iOS mobile implementation by NetM of Unlimit Crypto REST API for payments, ckeckouts in application. This Release supports following methods:
 
 - OnRamp API methods
 - OffRamp API methods
